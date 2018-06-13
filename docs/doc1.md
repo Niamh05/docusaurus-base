@@ -1,6 +1,6 @@
 ---
 id: doc1
-title: Latin-ish
+title: Favorites
 sidebar_label: Favorites
 ---
 
