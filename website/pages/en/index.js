@@ -122,8 +122,8 @@ const FeatureCallout = props => (
   <div
     className="productShowcaseSection paddingBottom"
     style={{textAlign: 'center'}}>
-    <h2>Feature Callout</h2>
-    <MarkdownBlock>These are features of this project</MarkdownBlock>
+    <h2>Why Docusaurus</h2>
+    <MarkdownBlock>I chose this template because it was doucment based, and I figured answering questions would probably work well with documents. I was drawn in by the dinosaurs and I do not regret that. I did pay attention to the fact that this was created using Markdown and JavaScript which are both languages I am familiar with. The biggest struggle I had was when I was trying to edit a .js file while writing in Markdown. I would make a commit, and then look at the document on Git to see that it was still angry. I did sort that out, but I have to admit it took a bit longer than it should have.</MarkdownBlock>
   </div>
 );
 
