@@ -147,7 +147,7 @@ const TryOut = props => (
         content: 'I have not been able to look at all the features of Netlify, but I do like what I have experienced so far. There are some things I think could be improved: for example the error messages when a build fails could be more informative. I do appreciate that there are immediate links to help documentation and the ability to contact a human to work out what the trouble is. All in all it is a great tool!',
         image: imgUrl('docusaurus.svg'),
         imageAlign: 'left',
-        title: 'I tried it Out',
+        title: 'I Tried It Out',
       },
     ]}
   </Block>
