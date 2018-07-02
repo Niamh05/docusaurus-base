@@ -131,7 +131,7 @@ const LearnHow = props => (
   <Block background="light">
     {[
       {
-        content: 'Thank you for reaching out to us! Sorry for the trouble here. Can you tell me more about what happened just before this came up? What sort of changes were you making? Are you seeing any error messages? \\n Any details you can provide could really help get to the bottom of this! I look forward to your reply.',
+        content: 'Thank you for reaching out to us! Sorry for the trouble here. Can you tell me more about what happened just before this came up? What sort of changes were you making? Are you seeing any error messages? \n Any details you can provide could really help get to the bottom of this! I look forward to your reply.',
         image: imgUrl('docusaurus.svg'),
         imageAlign: 'right',
         title: 'Site Will Not Load',
