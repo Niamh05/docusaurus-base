@@ -131,7 +131,7 @@ const LearnHow = props => (
   <Block background="light">
     {[
       {
-        content: 'Talk about learning how to use this',
+        content: 'I have not had a lot of time to look at all the features of Netlify, but I do like what I have experienced so far. There are some things I think could be improved: for example the ERROR messages when a build fails could be more informative. Although it is rather nice that there are immediate links to help documentation and the ability to speak to a human to work out what the trouble is. All in all it is a great tool!',
         image: imgUrl('docusaurus.svg'),
         imageAlign: 'right',
         title: 'Learn How',
