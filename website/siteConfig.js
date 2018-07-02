@@ -23,7 +23,7 @@ const siteConfig = {
   projectName: 'test-site',
   headerLinks: [
     {doc: 'doc1', label: 'Docs'},
-    {doc: 'doc4', label: 'API'},
+    {doc: 'doc4', label: 'More'},
     {page: 'help', label: 'Help'},
     {blog: true, label: 'Blog'},
   ],
