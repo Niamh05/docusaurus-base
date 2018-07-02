@@ -16,11 +16,11 @@ const users = [
 ];
 
 const siteConfig = {
-  title: 'Test Site' /* title for your website */,
-  tagline: 'A website for testing',
+  title: 'April Ramm' /* title for your website */,
+  tagline: 'Next Steps',
   url: 'https://facebook.github.io' /* your website url */,
   baseUrl: '/test-site/' /* base url for your project */,
-  projectName: 'test-site',
+  projectName: 'Next Steps',
   headerLinks: [
     {doc: 'doc1', label: 'Docs'},
     {doc: 'doc4', label: 'API'},
