@@ -103,16 +103,16 @@ const Features = props => (
   <Block layout="fourColumn">
     {[
       {
-        content: 'This is the content of my feature',
+        content: '',
         image: imgUrl('docusaurus.svg'),
         imageAlign: 'top',
-        title: 'Feature One',
+        title: 'Dinosaurs',
       },
       {
-        content: 'The content of my second feature',
+        content: '',
         image: imgUrl('docusaurus.svg'),
         imageAlign: 'top',
-        title: 'Feature Two',
+        title: 'Documents',
       },
     ]}
   </Block>
