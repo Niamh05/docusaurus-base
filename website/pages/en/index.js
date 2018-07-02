@@ -131,9 +131,9 @@ const LearnHow = props => (
   <Block background="light">
     {[
       {
-        content: 'Thank you for reaching out to us! Sorry for the trouble here. Can you tell me more about what happened just before this came up? What sort of changes were you making? Are you seeing any error messages?
+        content: ' /* "Thank you for reaching out to us! Sorry for the trouble here. Can you tell me more about what happened just before this came up? What sort of changes were you making? Are you seeing any error messages?
   
-  >Any details you can provide could really help get to the bottom of this! I look forward to your reply.',
+Any details you can provide could really help get to the bottom of this! I look forward to your reply."*/ ',
         image: imgUrl('docusaurus.svg'),
         imageAlign: 'right',
         title: 'Site Will Not Load',
@@ -146,7 +146,7 @@ const TryOut = props => (
   <Block id="try">
     {[
       {
-        content: 'I have not had a lot of time to look at all the features of Netlify, but I do like what I have experienced so far. There are some things I think could be improved: for example the ERROR messages when a build fails could be more informative. Although it is rather nice that there are immediate links to help documentation and the ability to speak to a human to work out what the trouble is. All in all it is a great tool!',
+        content: 'I have not been able to look at all the features of Netlify, but I do like what I have experienced so far. There are some things I think could be improved: for example the error messages when a build fails could be more informative. I do appreciate that there are immediate links to help documentation and the ability to contact a human to work out what the trouble is. All in all it is a great tool!',
         image: imgUrl('docusaurus.svg'),
         imageAlign: 'left',
         title: 'I tried it Out',
