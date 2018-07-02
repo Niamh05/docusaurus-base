@@ -17,7 +17,7 @@ const users = [
 
 const siteConfig = {
   title: 'Test-Site' /* title for your website */,
-  tagline: 'Next Steps',
+  tagline: 'A website for testing',
   url: 'https://facebook.github.io' /* your website url */,
   baseUrl: '/test-site/' /* base url for your project */,
   projectName: 'Next Steps',
